@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'open sans';
+    font-weight: 200;
+    background-color: black;
+    color: white
+}
+
+.navbar-brand img {
+    height: 30px;
+    width: 30px;
+}
+header {
+    margin-top: 0%;
+}
+
+h2 {
+ font-size: 16px;
+}
+
+.card-img-top{
+    height: 200px;
+    width: 100%;
+}
+
+.ancla{
+    text-decoration: none;
+    color: #ffff;
+}
+
